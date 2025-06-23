@@ -44,7 +44,7 @@ This project is a real-time facial emotion detection system built using Python, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/facial-emotion-detection.git
+git clone https://github.com/vasu0021/facial-emotion-detection.git
 
 # Navigate to the project folder
 cd facial-emotion-detection
